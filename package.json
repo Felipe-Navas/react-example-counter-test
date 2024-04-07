@@ -1,7 +1,18 @@
 {
-  "name": "counter-app",
-  "version": "0.1.0",
-  "private": true,
+  "name": "react-example-counter-test",
+  "description": "A Simple Counter App in React.js with tests",
+  "version": "1.0.0",
+  "main": "/src/index.js",
+  "author": "Felipe Navas",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Felipe-Navas/react-example-counter-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Felipe-Navas/react-example-counter-test/issues"
+  },
+  "homepage": "https://github.com/Felipe-Navas/react-example-counter-test#readme",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",

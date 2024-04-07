@@ -1,46 +1,54 @@
-# README
+# React Example Counter Test
 
-This README would normally document whatever steps are necessary to get your application up and running.
+A Simple Counter App in React.js with tests
 
-### What is this repository for?
+## Description
 
-- Quick summary
-  - A Simple Counter App in React.js with tests
-- Version: 1.0
-- [Author](https://www.linkedin.com/in/felipenavaslederhos)
+A Simple Counter App in React.js with tests
 
-### How do I get set up?
+## Getting Started
 
-- Summary of set up
+### Dependencies
 
-  - `yarn`
-  - `npm install`
+- `npm`
+- `node`
 
-- How to run the app?
+### Installing
 
-  - `yarn start`
-  - `npm start`
+- Clone the repository and install dependencies:
 
-- How to run the tests?
+```
+git clone https://github.com/Felipe-Navas/react-example-counter-test.git && cd react-example-counter-test && npm install
+```
 
-  - `yarn test`
-  - `npm test`
+### Executing program
 
-- Dependencies
-  - "@testing-library/jest-dom": "^4.2.4",
-  - "@testing-library/react": "^9.3.2",
-  - "@testing-library/user-event": "^7.1.2",
-  - "react": "^16.13.1",
-  - "react-dom": "^16.13.1",
-  - "react-scripts": "3.4.1"
+```
+npm start
+```
 
-### Contribution guidelines
+### Running tests
 
-- Writing tests
-- Code review
-- Other guidelines
+```
+npm test
+```
 
-### Who do I talk to?
+Preview after running the tests:
 
-- Repo owner or admin
-- Other community or team contact
+<img width="350" src="assets/TestsPreview.png" alt="Preview after running the tests" />
+
+## Authors
+
+- [Felipe Navas](https://www.linkedin.com/in/felipenavaslederhos) - [Email](mailto:felipenavas.itec@gmail.com?subject=[GitHub]%react-example-counter-test)
+
+## Contributing
+
+1. Fork it (<https://github.com/Felipe-Navas/react-example-counter-test/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
+
+## License
+
+This project is licensed under the [MIT License] - see the LICENSE file for details
